@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=98LVMR3dXiw - windows server 2016
+server 2016 - has Nano installation
+Get-ComputerInfo - powershell command
+Nano server do not support MSI installation
+for Nano Server we can install Windows server App installer (WSA)
