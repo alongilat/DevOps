@@ -3,3 +3,16 @@ server 2016 - has Nano installation
 Get-ComputerInfo - powershell command
 Nano server do not support MSI installation
 for Nano Server we can install Windows server App installer (WSA)
+
+Git
+---
+https://www.youtube.com/watch?v=Y9XZQO1n_7c - basic steps in git
+
+git init
+Git status - gives information about our git env.
+git add
+git commit
+touch .gitignore && edit the file and list the files that need to be ignore && need to add it to SC
+git stash - put the changes on the shelf
+git remote - list of remote repository
+git clone <repo name> - clone repository to local
