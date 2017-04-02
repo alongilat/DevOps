@@ -7,12 +7,28 @@ for Nano Server we can install Windows server App installer (WSA)
 Git
 ---
 https://www.youtube.com/watch?v=Y9XZQO1n_7c - basic steps in git
+https://www.youtube.com/watch?v=73I5dRucCds - basic github WOW
+https://www.youtube.com/watch?v=MJUJ4wbFm_A
 
 git init
+git config --global user.name "aaa" - define global information on git config --global user.mail "aaa@gmail"
+
 Git status - gives information about our git env.
 git add
 git commit
+git log - type the history of the file
 touch .gitignore && edit the file and list the files that need to be ignore && need to add it to SC
 git stash - put the changes on the shelf
 git remote - list of remote repository
+git remote -v - the list with the http path information
+git remote add origin <httpPath> - will create a new project
 git clone <repo name> - clone repository to local
+git fetch origin - get updated changes from the remote server
+git pull origin - get updated changes and merge the changes
+git push origin master
+git branch <Name> - create brancj
+git checkout <B.name> - switch to the branch
+
+Pull request ????
+
+git fork - create a new repository from existing one
